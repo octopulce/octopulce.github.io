@@ -29,7 +29,6 @@ gems:
   - jekyll-feed
 
 google_analytics: UA-94094441-1
-disqus.shortname: blog-octopulce-com
 
 sass:
     style: compressed
