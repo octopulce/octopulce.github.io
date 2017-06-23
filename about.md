@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: A propos
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Octopulce est née sous l'impulsion de son fondateur qui 
+Ce blog est pour nous l'occasion de partager nos découvertes, mais aussi nos doutes, nos questions, une facon de vous présenter des solutions et des outils sur l'ensemble des domaines que couvre la création d'une startup et du Ecommerce.  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Mais c'est aussi et avant tout le meilleur moyen que nous avons trouvé pour que nous puissions échanger ensemble et que cette aventure soit aussi la votre. Votre avis compte et [Octopulce](https://www.octopulce.com) n'a qu'un but: Faire en sorte que le consommateur devienne enfin un acteur clé du Ecommerce.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+En avant !
