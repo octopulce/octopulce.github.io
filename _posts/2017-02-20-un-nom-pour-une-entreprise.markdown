@@ -2,8 +2,8 @@
 layout: post
 title:  "Trouver un nom pour son entreprise"
 date:   2017-06-20
-categories: jekyll update
 tags: statup, entreprenariat
+comments: true
 ---
 Chaque entrepreneur le sait, créer une nouvelle structure c'est faire face à une quantité inncroyable de questionnements et de doutes.  
 Chez Octopulce, nous n'avions pas imaginé que l'une de ces plus grandes interrogations aller porter sur la recherche d'un nom, d'une identité.  
