@@ -2,9 +2,11 @@
 layout: post
 title:  "Trouver un nom pour son entreprise"
 date:   2017-06-20
-tags: statup, entreprenariat
+tags: startup, entreprenariat
 comments: true
+author: Fred
 ---
+
 Chaque entrepreneur le sait, créer une nouvelle structure c'est faire face à une quantité inncroyable de questionnements et de doutes.  
 Chez Octopulce, nous n'avions pas imaginé que l'une de ces plus grandes interrogations aller porter sur la recherche d'un nom, d'une identité.  
 Tous les objets, toutes les personnes autour de nous ont un nom et il faut dire que ca facilite bien les choses alors pourquoi faire une exception pour une entreprise ? Trouver un nom pour une nouvelle stucture peut alors s'avérer un véritable challenge pour certains, peut etre une évidence pour d'autres.  

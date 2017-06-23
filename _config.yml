@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Octopulce - Le Blog !
-email:
+email: "contact@octopulce.com"
 description: > # this means to ignore newlines until "baseurl:"
   Octopulce, le blog: Découvrez les coulisses de la création de la nouvelle plateforme de Social Shopping !
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -30,8 +30,6 @@ gems:
 
 google_analytics: UA-94094441-1
 
-sass:
-    style: compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
