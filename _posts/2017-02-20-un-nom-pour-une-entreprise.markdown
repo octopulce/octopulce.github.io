@@ -6,8 +6,8 @@ categories: jekyll update
 tags: statup, entreprenariat
 ---
 Chaque entrepreneur le sait, créer une nouvelle structure c'est faire face à une quantité inncroyable de questionnements et de doutes.  
-Chez Octopulce, nous n'avions pas imaginé que l'une de ces plus grandes interrogations aller porter sur la recherche d'un nom.  
-Tous les objets, toutes les personnes autour de nousont un nom et il faut dire que ca facilite bien les choes alors pourquoi faire une exception pour une startup, une entreprise ? Trouver un nom pour une nouvelle stucture peut alors s'avérer un véritable challenge pour certains, peut etre une évidence pour d'autres.  
+Chez Octopulce, nous n'avions pas imaginé que l'une de ces plus grandes interrogations aller porter sur la recherche d'un nom, d'une identité.  
+Tous les objets, toutes les personnes autour de nous ont un nom et il faut dire que ca facilite bien les choses alors pourquoi faire une exception pour une entreprise ? Trouver un nom pour une nouvelle stucture peut alors s'avérer un véritable challenge pour certains, peut etre une évidence pour d'autres.  
 
 Quelques astuces:
 
@@ -17,13 +17,13 @@ Quelques astuces:
 - choisissez un nom qui **se prononce facilement** pour favoriser le bouche à oreille
 - **Marquer les esprits** pour se démarquer. En marquant les esprits, on se souviendra de vous !  
 
-Ces astuces ne reste que ... des astuces et ne sont pas necesseremment à prendre au pied de la lettre. La preuve avec [Facebook](https://www.facebook.com) ou [BlaBlaCar](https://www.blablacar.fr/) qui, si le nom se retient facilement, traduit très largement l'activité principale de la startup.  
-Meme principe avec [En Voiture Simone](https://www.envoituresimone.com/) ou [](http://www.lespiaules.com/fr/)qui traduisent directement le secteur d'activité mais en mettant l'accent sur l'originalité des noms. Ca se retient !
+Ces astuces ne restent que ... des astuces et ne sont pas nécessairement à prendre au pied de la lettre. La preuve avec [Facebook](https://www.facebook.com) ou [BlaBlaCar](https://www.blablacar.fr/) qui, si le nom se retient facilement, traduit très largement l'activité principale de la startup.  
+Meme principe avec [En Voiture Simone](https://www.envoituresimone.com/) ou [Les piaules](http://www.lespiaules.com/fr/) qui traduisent directement le secteur d'activité mais en mettant l'accent sur l'originalité des noms. Ca se retient !
 D'autres géants (Google, Yahoo, Amazon, Stripe, ...) suivent parfaitement les principales astuces en étant courts, faciles à prononcer et suffisamment abstraits.  
 
 
-Les générateurs de noms pour les moins inspirés
-----------------------------------------------
+Quelques générateurs de noms pour les moins inspirés
+----------------------------------------------------
 -  [generateur.name](http://www.generateur.name/) qui travaille à partir d'une racine
 - [Panabee](http://www.panabee.com/), une grosse référence qui utilise plusieurs mots clés pour trouver des noms originaux mais aussi les noms de domaines disponibles.  
 - [Nomatic](http://www.trouver-nom-entreprise.com/) pour trouver un nom à partir, la aussi, d'une racine  
