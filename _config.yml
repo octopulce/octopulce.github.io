@@ -27,7 +27,7 @@ markdown: kramdown
 
 gems:
   - jekyll-feed
-
+  - jekyll-sitemap
 google_analytics: UA-94094441-1
 
 
