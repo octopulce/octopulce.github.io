@@ -18,7 +18,7 @@ email: "contact@octopulce.com"
 description: > # this means to ignore newlines until "baseurl:"
   Octopulce, le blog: Découvrez les coulisses de la création de la nouvelle plateforme de Social Shopping !
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.otopulce.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://blog.octopulce.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: octopulce
 github_username:  octopulce
 
